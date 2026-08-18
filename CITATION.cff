@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or evaluation protocol, please cite the workshop paper."
+title: "Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback"
+type: software
+authors:
+  - family-names: Raghavan
+    given-names: Dharini
+  - family-names: Singh
+    given-names: Amritpal
+year: 2026
+repository-code: "https://github.com/rdharini2001/Selective-State-Space-Observers-for-Estimate-Driven-Robot-Control-Under-Intermittent-Sensing"
+keywords:
+  - world models
+  - robot learning
+  - imagined rollouts
+  - closed-loop control
+  - world-model evaluation
+  - physical AI

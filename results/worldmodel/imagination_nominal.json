@@ -1,0 +1,38 @@
+{
+  "dead_reckoning": {
+    "imagine_rmse": 1.597090816966383,
+    "imagine_auc": 1.2331909216140788
+  },
+  "ekf": {
+    "imagine_rmse": 0.3592212055901406,
+    "imagine_auc": 0.21979375280679286
+  },
+  "gru_dr": {
+    "imagine_rmse": 0.33091794400317703,
+    "imagine_auc": 0.24984150482482445
+  },
+  "ssm_dr": {
+    "imagine_rmse": 0.5377370919587491,
+    "imagine_auc": 0.3199424830942495
+  },
+  "ssm_ekf": {
+    "imagine_rmse": 0.170368137855642,
+    "imagine_auc": 0.1336027912986891
+  },
+  "gru_ekf": {
+    "imagine_rmse": 0.22296523205718938,
+    "imagine_auc": 0.14425217492697956
+  },
+  "ssm_ekf_imagine_seed0": {
+    "imagine_rmse": 0.22120032506799242,
+    "imagine_auc": 0.17381506736920344
+  },
+  "ssm_dr_imagine_seed0": {
+    "imagine_rmse": 0.474954462130231,
+    "imagine_auc": 0.297338129089484
+  },
+  "gru_ekf_imagine_seed0": {
+    "imagine_rmse": 0.20296027380094475,
+    "imagine_auc": 0.13630002082851905
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ssm_dr",
+  "cell": "ssm",
+  "anchor": "dr",
+  "selective": true,
+  "use_mask": true,
+  "use_cov": false,
+  "d": 32,
+  "lr": 0.004,
+  "epochs": 32,
+  "batch": 24,
+  "lam": 0.5,
+  "seed": 0
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ssm_ekf_nosel",
+  "cell": "ssm",
+  "anchor": "ekf",
+  "selective": false,
+  "use_mask": true,
+  "use_cov": true,
+  "d": 32,
+  "lr": 0.003,
+  "epochs": 32,
+  "batch": 24,
+  "lam": 0.5,
+  "seed": 0
+}
