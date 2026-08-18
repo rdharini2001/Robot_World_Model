@@ -48,16 +48,6 @@ The result is not an argument against long-horizon prediction. It is an argument
 
 This small system deliberately removes visual representation learning so that the relationship between prediction fidelity and downstream control can be measured directly and repeatedly.
 
-## Paper
-
-**Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback**  
-Dharini Raghavan, Amritpal Singh  
-NeurIPS 2026 Workshop on *Robot Learning with World Models: Capabilities, Frontiers, and Challenges*
-
-- [Paper PDF](paper/paper.pdf)
-- [LaTeX source](paper/main.tex)
-- [Paper figures](paper/figures/)
-
 ## Repository structure
 
 ```text
