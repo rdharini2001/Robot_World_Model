@@ -1,4 +1,4 @@
-<h1 align="center">Feedback-Aware World-Model Evaluation</h1>
+<h1 align="center">Feedback-Aware Robot World-Model Evaluation</h1>
 
 <p align="center"><b>Do Better Imagined Rollouts Mean Better Robot Control?</b></p>
 
